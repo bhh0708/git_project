@@ -7,6 +7,8 @@ public class StudentModel {
 		private int sex;
 		private String love;
 		private String password;
+	        private String love;
+
 		
 		public StudentModel(int id, String username, String password, int sex, String love)
 		{
